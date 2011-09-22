@@ -208,7 +208,7 @@ $(function() {
         context.translate(400, 300);
         context.rotate(playerState.rotationAngle);
 
-        context.drawImage(player, -37, -30);
+        context.drawImage(player, -90, -50);
         context.restore();
       }
 
